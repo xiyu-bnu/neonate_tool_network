@@ -1,0 +1,77 @@
+Tool nodes£º
+LOTC: left lateral occipitotemporal cortex; LIPL/SPL: left inferior and superior parietal lobule; LPreG: left premotor gyrus; LIFG: left inferior frontal gyrus; 
+Face nodes£º
+L/ROFA: left and right occipital face areas; L/RFFA: left and right fusiform face areas; RATL: right anterior temporal lobe; L/RSTG: left and right superior temporal gyri; RIFG: right inferior frontal gyrus.
+
+---------------------------------
+label for each column: 
+1: orign macaque id
+--------------within tool domain--------------
+2: LPreG-LIFG
+3: LPreG-LOTC
+4: LIFG-LOTC
+5: LPreG-LIPL/SPL
+6: LIFG-LIPL/SPL
+7: LOTC-LIPL/SPL
+--------------within face domain-------------- 
+8: LFFA-LOFA 
+9: LFFA-LSTG
+10: LOFA-LSTG 
+11: LFFA-RFFA
+12: LOFA-RFFA
+13: LSTG-RFFA 
+14: LFFA-ROFA
+15: LOFA-ROFA
+16: LSTG-ROFA
+17: RFFA-ROFA 
+18: LFFA-RSTG
+19: LOFA-RSTG
+20: LSTG-RSTG
+21: RFFA-RSTG
+22: ROFA-RSTG
+23: LFFA-RATL
+24: LOFA-RATL
+25: LSTG-RATL
+26: RFFA-RATL
+27: ROFA-RATL
+28: RSTG-RATL
+29: LFFA-RIFG
+30: LOFA-RIFG
+31: LSTG-RIFG
+32: RFFA-RIFG
+33: ROFA-RIFG
+34: RSTG-RIFG
+35: RATL-RIFG
+--------------between domains--------------
+36: LFFA-LPreG
+37: LOFA-LPreG
+38: LSTG-LPreG
+39: RFFA-LPreG
+40: ROFA-LPreG
+41: RSTG-LPreG
+42: RATL-LPreG
+43: RIFG-LPreG
+44: LFFA-LIFG
+45: LOFA-LIFG
+46: LSTG-LIFG
+47: RFFA-LIFG
+48: ROFA-LIFG
+49: RSTG-LIFG
+50: RATL-LIFG
+51: RIFG-LIFG
+52: LFFA-LOTC
+53: LOFA-LOTC
+54: LSTG-LOTC
+55: RFFA-LOTC
+56: ROFA-LOTC
+57: RSTG-LOTC
+58: RATL-LOTC
+59: RIFG-LOTC
+60: LFFA-LIPL/SPL
+61: LOFA-LIPL/SPL
+62: LSTG-LIPL/SPL
+63: RFFA-LIPL/SPL
+64: ROFA-LIPL/SPL
+65: RSTG-LIPL/SPL
+66: RATL-LIPL/SPL
+67: RIFG-LIPL/SPL
